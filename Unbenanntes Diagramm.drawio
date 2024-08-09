@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-7" value="ASKION aWB" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="50" y="400" width="1600" height="310" as="geometry" />
+          <mxGeometry x="50" y="400" width="1740" height="310" as="geometry" />
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="c_SHFbjMTj0HTDH2dX4E-7" source="c_SHFbjMTj0HTDH2dX4E-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -82,28 +82,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-8" value="CentraXX" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" parent="1" vertex="1">
-          <mxGeometry x="47" y="179" width="1603" height="220" as="geometry" />
+          <mxGeometry x="47" y="100" width="1743" height="299" as="geometry" />
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-15" value="Ende" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" parent="c_SHFbjMTj0HTDH2dX4E-8" vertex="1">
-          <mxGeometry x="1423" y="90" width="60" height="60" as="geometry" />
+          <mxGeometry x="1673" y="160" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-35" value="getriggerter Sortierauftragsexport" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="c_SHFbjMTj0HTDH2dX4E-8" vertex="1">
-          <mxGeometry x="507.5" y="90" width="170" height="60" as="geometry" />
+          <mxGeometry x="517.5" y="160" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="c_SHFbjMTj0HTDH2dX4E-8" source="c_SHFbjMTj0HTDH2dX4E-1" target="c_SHFbjMTj0HTDH2dX4E-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-1" value="Start" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" parent="c_SHFbjMTj0HTDH2dX4E-8" vertex="1">
-          <mxGeometry x="50" y="90" width="60" height="60" as="geometry" />
+          <mxGeometry x="60" y="160" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="c_SHFbjMTj0HTDH2dX4E-8" source="c_SHFbjMTj0HTDH2dX4E-3" target="c_SHFbjMTj0HTDH2dX4E-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-3" value="Sortierregel an Probe hinterlegen" style="rounded=0;whiteSpace=wrap;html=1;" parent="c_SHFbjMTj0HTDH2dX4E-8" vertex="1">
-          <mxGeometry x="160" y="90" width="110" height="60" as="geometry" />
+          <mxGeometry x="170" y="160" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-5" value="Rack auf Lagerort &quot;aWB input&quot; umlagern" style="whiteSpace=wrap;html=1;rounded=0;" parent="c_SHFbjMTj0HTDH2dX4E-8" vertex="1">
-          <mxGeometry x="345" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="c_SHFbjMTj0HTDH2dX4E-8" source="c_SHFbjMTj0HTDH2dX4E-5" target="c_SHFbjMTj0HTDH2dX4E-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -117,11 +117,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rJmJJguxviZmdggviB7S-8" value="überprüfung Racks" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="c_SHFbjMTj0HTDH2dX4E-8">
-          <mxGeometry x="853" y="90" width="147" height="60" as="geometry" />
+          <mxGeometry x="863" y="160" width="147" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rJmJJguxviZmdggviB7S-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="c_SHFbjMTj0HTDH2dX4E-8" source="rJmJJguxviZmdggviB7S-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1223" y="120" as="targetPoint" />
+        <mxCell id="rJmJJguxviZmdggviB7S-13" value="nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="c_SHFbjMTj0HTDH2dX4E-8" source="rJmJJguxviZmdggviB7S-9">
+          <mxGeometry x="0.0122" y="-10" relative="1" as="geometry">
+            <mxPoint x="1233" y="190" as="targetPoint" />
+            <mxPoint x="-1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rJmJJguxviZmdggviB7S-14" value="nein" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rJmJJguxviZmdggviB7S-13">
@@ -129,8 +130,39 @@
             <mxPoint x="-38" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="c_SHFbjMTj0HTDH2dX4E-8" source="rJmJJguxviZmdggviB7S-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1153" y="141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-25" value="ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rJmJJguxviZmdggviB7S-24">
+          <mxGeometry x="-0.0444" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rJmJJguxviZmdggviB7S-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="c_SHFbjMTj0HTDH2dX4E-8">
-          <mxGeometry x="1103" y="80" width="80" height="80" as="geometry" />
+          <mxGeometry x="1113" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="c_SHFbjMTj0HTDH2dX4E-8" source="rJmJJguxviZmdggviB7S-15" target="rJmJJguxviZmdggviB7S-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-15" value="Rackanlage in &quot;aWB Output&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="c_SHFbjMTj0HTDH2dX4E-8">
+          <mxGeometry x="1233" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="c_SHFbjMTj0HTDH2dX4E-8" source="rJmJJguxviZmdggviB7S-16" target="rJmJJguxviZmdggviB7S-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-16" value="Probenumlagerung" style="whiteSpace=wrap;html=1;" vertex="1" parent="c_SHFbjMTj0HTDH2dX4E-8">
+          <mxGeometry x="1383" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="c_SHFbjMTj0HTDH2dX4E-8" source="rJmJJguxviZmdggviB7S-19" target="c_SHFbjMTj0HTDH2dX4E-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-19" value="Entfernung Sortierregel" style="whiteSpace=wrap;html=1;" vertex="1" parent="c_SHFbjMTj0HTDH2dX4E-8">
+          <mxGeometry x="1533" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="c_SHFbjMTj0HTDH2dX4E-8">
+          <mxGeometry x="1083" y="11" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c_SHFbjMTj0HTDH2dX4E-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c_SHFbjMTj0HTDH2dX4E-35" target="c_SHFbjMTj0HTDH2dX4E-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -139,6 +171,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="977" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-18" value="Rackbelegung scannen" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rJmJJguxviZmdggviB7S-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_SHFbjMTj0HTDH2dX4E-9" target="c_SHFbjMTj0HTDH2dX4E-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
